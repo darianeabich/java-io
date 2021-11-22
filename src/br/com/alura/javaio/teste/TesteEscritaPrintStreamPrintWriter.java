@@ -2,7 +2,7 @@ package br.com.alura.javaio.teste;
 
 import java.io.*;
 
-public class TesteEscrita3 {
+public class TesteEscritaPrintStreamPrintWriter {
     public static void main(String[] args) throws IOException {
         //Fluxo de Saída com Arquivo
 //        OutputStream fos = new FileOutputStream("arquivo2.txt");
